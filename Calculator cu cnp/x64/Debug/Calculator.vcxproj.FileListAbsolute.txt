@@ -1,0 +1,10 @@
+C:\POO\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\POO\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\POO\Calculator\x64\Debug\Calculator.Form1.resources
+C:\POO\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\POO\Calculator\x64\Debug\Calculator.exe
+C:\POO\Calculator cu cnp\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\POO\Calculator cu cnp\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\POO\Calculator cu cnp\x64\Debug\Calculator.Form1.resources
+C:\POO\Calculator cu cnp\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\POO\Calculator cu cnp\x64\Debug\Calculator.exe

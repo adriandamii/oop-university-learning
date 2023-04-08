@@ -1,0 +1,5 @@
+C:\POO\Calculator cu cnp\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\POO\Calculator cu cnp\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\POO\Calculator cu cnp\Debug\Calculator.Form1.resources
+C:\POO\Calculator cu cnp\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\POO\Calculator cu cnp\Debug\Calculator.exe
