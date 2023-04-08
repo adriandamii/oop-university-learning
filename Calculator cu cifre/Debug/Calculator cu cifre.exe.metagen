@@ -1,0 +1,37 @@
+  Calculator_cu_cifre.Form1.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Calculator cu cifre, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CppCLRWinFormsProject.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    equal_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    plus_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    minus_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    multiply_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    divide_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    digit1_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    digit2_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    digit3_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    digit4_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    digit5_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    digit6_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    digit7_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    digit8_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    digit9_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    digit0_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    dot_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    clearButton_Click(Object, EventArgs): PrivateScope, Public, HideBySig

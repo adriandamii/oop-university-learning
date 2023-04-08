@@ -1,0 +1,5 @@
+C:\POO\Calculator cu cifre\Debug\Calculator cu cifre.vcxproj.AssemblyReference.cache
+C:\POO\Calculator cu cifre\Debug\Calculator cu cifre.vcxproj.SuggestedBindingRedirects.cache
+C:\POO\Calculator cu cifre\Debug\Calculator_cu_cifre.Form1.resources
+C:\POO\Calculator cu cifre\Debug\Calculator cu cifre.vcxproj.GenerateResource.cache
+C:\POO\Calculator cu cifre\Debug\Calculator cu cifre.exe
